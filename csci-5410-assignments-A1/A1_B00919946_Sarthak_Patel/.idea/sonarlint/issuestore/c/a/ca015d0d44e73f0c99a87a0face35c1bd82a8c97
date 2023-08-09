@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïÉ¾àøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶ÂÏç
+W
+java:S1075""ARefactor your code to get this URI from a customizable parameter.(–»»…
+V	java:S1251"<This block of commented-out lines of code should be removed.(Õ×Þ™ùÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(¾™°ô
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(˜Ý¢äûÿÿÿÿ
+Psecrets:S6290"2Make sure this AWS Access Key ID is not disclosed.(›È÷‡ùÿÿÿÿ
